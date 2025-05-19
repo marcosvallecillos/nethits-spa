@@ -2,23 +2,23 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/flex-objects/nethits-spa/user/data/flex/indexes/pages.json',
-    'modified' => 1747643460,
+    'modified' => 1747648400,
     'size' => 635,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1747643460,
+        'timestamp' => 1747648400,
         'count' => 3,
         'index' => [
             '' => [
                 'key' => '',
                 'storage_key' => '',
                 'template' => NULL,
-                'storage_timestamp' => 1747643264,
+                'storage_timestamp' => 1747648298,
                 'children' => [
                     '01.home' => 1747643264,
                     '02.typography' => 1747643264
                 ],
-                'checksum' => '4c94087fc7d934c36e42c24fe8e5f899'
+                'checksum' => '3056b0d5c9128efcc70709246330b8e2'
             ],
             '01.home' => [
                 'key' => 'home',

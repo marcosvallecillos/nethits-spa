@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/flex-objects/nethits-spa/user/config/system.yaml',
-    'modified' => 1747643264,
+    'modified' => 1747648298,
     'size' => 620,
     'data' => [
         'absolute_urls' => false,
