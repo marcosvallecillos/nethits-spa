@@ -1,0 +1,11 @@
+state: enabled
+email: marcosvallecillosu@gmail.com
+fullname: 'Marcos Vallecillos Usagre'
+title: admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$7zOG59XFZcPnZNzIOafgEeedGk1HpxYzGwXsuTum7QONekDJ3VmBC
