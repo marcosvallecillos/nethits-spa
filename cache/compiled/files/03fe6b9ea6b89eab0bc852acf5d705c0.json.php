@@ -1,0 +1,49 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
+    'filename' => 'C:/xampp/htdocs/flex-objects/nethits-spa/user/data/flex/indexes/pages.json',
+    'modified' => 1747643460,
+    'size' => 635,
+    'data' => [
+        'version' => '1.5',
+        'timestamp' => 1747643460,
+        'count' => 3,
+        'index' => [
+            '' => [
+                'key' => '',
+                'storage_key' => '',
+                'template' => NULL,
+                'storage_timestamp' => 1747643264,
+                'children' => [
+                    '01.home' => 1747643264,
+                    '02.typography' => 1747643264
+                ],
+                'checksum' => '4c94087fc7d934c36e42c24fe8e5f899'
+            ],
+            '01.home' => [
+                'key' => 'home',
+                'storage_key' => '01.home',
+                'template' => 'default',
+                'storage_timestamp' => 1747643264,
+                'markdown' => [
+                    '' => [
+                        'default' => 1747643264
+                    ]
+                ],
+                'checksum' => '2fa85bf2b6098ec6fe6866fc9aec3d5a'
+            ],
+            '02.typography' => [
+                'key' => 'typography',
+                'storage_key' => '02.typography',
+                'template' => 'default',
+                'storage_timestamp' => 1747643264,
+                'markdown' => [
+                    '' => [
+                        'default' => 1747643264
+                    ]
+                ],
+                'checksum' => 'd5d5ea5baf504d1d567d491f469ff260'
+            ]
+        ]
+    ]
+];
