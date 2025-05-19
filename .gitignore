@@ -1,0 +1,40 @@
+# Grav cache, logs, and temp files
+/cache/
+backup/
+logs/
+tmp/
+
+# User-specific files that shouldn't be tracked
+/user/accounts/
+user/config/security.yaml
+user/data/
+user/plugins/ganalytics/ganalytics.yaml
+
+# Ignore uploaded media (optional)
+# /user/pages/**/images/
+
+# Ignore Composer dependencies if using them
+/vendor/
+composer.lock
+
+# Node dependencies (if using theme with npm)
+node_modules/
+npm-debug.log
+
+# IDE/editor config
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# System files
+.env
+.env.local
+*.log
+
+# Flex Objects generated content (optional)
+user/flex-objects/data/
