@@ -1,40 +1,50 @@
-# Grav cache, logs, and temp files
-/cache/
-backup/
-logs/
-tmp/
+# Composer
+.composer
+vendor/*
+!*/vendor/*
 
-# User-specific files that shouldn't be tracked
-/user/accounts/
-user/config/security.yaml
-user/data/
-user/plugins/ganalytics/ganalytics.yaml
+# Sass
+.sass-cache
 
-# Ignore uploaded media (optional)
-# /user/pages/**/images/
+# Grav Specific
+backup/*
+!backup/.*
+cache/*
+!cache/.*
+assets/*
+!assets/.*
+logs/*
+!logs/.*
+images/*
+!images/.*
+user/accounts/*
+!user/accounts/.*
+user/data/*
+!user/data/.*
+user/plugins/*
+!user/plugins/.*
+user/themes/*
+!user/themes/.*
+user/**/config/security.yaml
 
-# Ignore Composer dependencies if using them
-/vendor/
-composer.lock
-
-# Node dependencies (if using theme with npm)
-node_modules/
-npm-debug.log
-
-# IDE/editor config
-*.swp
-*.swo
-*.bak
-*.tmp
-*.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# System files
+# Environments
 .env
-.env.local
-*.log
+.gravenv
 
-# Flex Objects generated content (optional)
-user/flex-objects/data/
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# phpstorm
+.idea/*
+
+# testing stuff
+tests/_output/*
+tests/_support/_generated/*
+tests/cache/*
+tests/error.log
+system/templates/testing/*
+/user/config/versions.yaml
