@@ -60,6 +60,6 @@ class __TwigTemplate_2249460ecbc87b010d95d0b1688ee4be35c949c3b2696cc5d65dba566ca
     public function getSourceContext()
     {
         return new Source("{% extends 'partials/base-root.html.twig' %}
-", "partials/base.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\grav-admin\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\base.html.twig");
+", "partials/base.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\base.html.twig");
     }
 }

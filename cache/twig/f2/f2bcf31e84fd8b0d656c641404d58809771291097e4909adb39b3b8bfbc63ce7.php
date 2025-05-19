@@ -175,6 +175,6 @@ class __TwigTemplate_c49f7b2d6ed4002a1e081b3f54c2f9a13fb2275585e565cd1513d178e22
 {% else %}
   {% block empty_fields_markup %}{% endblock %}
 {% endif %}
-", "forms/default/fields.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\grav-admin\\user\\plugins\\form\\templates\\forms\\default\\fields.html.twig");
+", "forms/default/fields.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\user\\plugins\\form\\templates\\forms\\default\\fields.html.twig");
     }
 }

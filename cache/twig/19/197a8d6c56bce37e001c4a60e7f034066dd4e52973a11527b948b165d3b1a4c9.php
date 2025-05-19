@@ -188,6 +188,6 @@ class __TwigTemplate_56793a6b74c366652c67549847fa54622a5eddb9745d51f154b3a604b4d
 {% endblock %}
 
 
-", "forms/fields/text/text.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\grav-admin\\user\\plugins\\form\\templates\\forms\\fields\\text\\text.html.twig");
+", "forms/fields/text/text.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\user\\plugins\\form\\templates\\forms\\fields\\text\\text.html.twig");
     }
 }

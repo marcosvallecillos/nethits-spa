@@ -668,7 +668,7 @@ class __TwigTemplate_a85eb5f81f9e8fc290b8cebea3e786e21d739be05f3473090000b5bc0b9
     {% endblock body %}
     </html>
 {% endif %}
-", "partials/base-root.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\grav-admin\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\base-root.html.twig");
+", "partials/base-root.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\base-root.html.twig");
     }
     private $deferred;
 }

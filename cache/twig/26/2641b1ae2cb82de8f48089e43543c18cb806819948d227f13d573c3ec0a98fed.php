@@ -228,6 +228,6 @@ class __TwigTemplate_dbe6709bd0583847e8a17ee1717245b1abcc72871c6c7d99faa45916781
     {% endfor %}
 </script>
 {% endif %}
-", "partials/javascript-config.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\grav-admin\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\javascript-config.html.twig");
+", "partials/javascript-config.html.twig", "C:\\xampp\\htdocs\\grav-admin-spa\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\javascript-config.html.twig");
     }
 }
