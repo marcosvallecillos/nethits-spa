@@ -1,7 +1,11 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
+<<<<<<< HEAD
     'timestamp' => 1747644247,
+=======
+    'timestamp' => 1747643306,
+>>>>>>> cambiosDani
     'checksum' => '6bb096ab268a3e1a0f05cf2606a168f3',
     'files' => [
         'system/languages' => [

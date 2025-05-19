@@ -70,7 +70,11 @@ class __TwigTemplate_36c6e7eec027874816f934c097c0a6fe1d660c59eaeeb4c6257047d1c6a
             echo "
     ";
             // line 14
+<<<<<<< HEAD
             $this->loadTemplate("forms/fields/section/section.html.twig", "forms/fields/section/section.html.twig", 14, "1928922268")->display(twig_array_merge($context, ["name" => $this->getAttribute(($context["field"] ?? null), "name", []), "fields" => $this->getAttribute(($context["field"] ?? null), "fields", [])]));
+=======
+            $this->loadTemplate("forms/fields/section/section.html.twig", "forms/fields/section/section.html.twig", 14, "534721056")->display(twig_array_merge($context, ["name" => $this->getAttribute(($context["field"] ?? null), "name", []), "fields" => $this->getAttribute(($context["field"] ?? null), "fields", [])]));
+>>>>>>> cambiosDani
             // line 22
             echo "
 ";
@@ -132,7 +136,11 @@ class __TwigTemplate_36c6e7eec027874816f934c097c0a6fe1d660c59eaeeb4c6257047d1c6a
 
 
 /* forms/fields/section/section.html.twig */
+<<<<<<< HEAD
 class __TwigTemplate_36c6e7eec027874816f934c097c0a6fe1d660c59eaeeb4c6257047d1c6a3fa6a___1928922268 extends \Twig\Template
+=======
+class __TwigTemplate_36c6e7eec027874816f934c097c0a6fe1d660c59eaeeb4c6257047d1c6a3fa6a___534721056 extends \Twig\Template
+>>>>>>> cambiosDani
 {
     public function __construct(Environment $env)
     {
