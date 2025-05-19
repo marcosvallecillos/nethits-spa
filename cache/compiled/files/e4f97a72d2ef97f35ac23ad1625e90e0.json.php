@@ -2,24 +2,24 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/grav-admin-spa/user/data/flex/indexes/pages.json',
-    'modified' => 1747648196,
+    'modified' => 1747648637,
     'size' => 848,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1747648196,
+        'timestamp' => 1747648637,
         'count' => 4,
         'index' => [
             '' => [
                 'key' => '',
                 'storage_key' => '',
                 'template' => NULL,
-                'storage_timestamp' => 1747643571,
+                'storage_timestamp' => 1747648467,
                 'children' => [
                     '01.home' => 1747642232,
                     '02.typography' => 1747642232,
-                    '03.spa' => 1747643571
+                    '03.spa' => 1747648467
                 ],
-                'checksum' => '29f4b5531c7b0041caaa6e5821674ba7'
+                'checksum' => '78468afb27bee56bb4d65cde8c18d5f6'
             ],
             '01.home' => [
                 'key' => 'home',
@@ -49,13 +49,13 @@ return [
                 'key' => 'spa',
                 'storage_key' => '03.spa',
                 'template' => 'flex-objects',
-                'storage_timestamp' => 1747648173,
+                'storage_timestamp' => 1747648467,
                 'markdown' => [
                     '' => [
-                        'flex-objects' => 1747648173
+                        'flex-objects' => 1747648467
                     ]
                 ],
-                'checksum' => '1c96e63fe64e237932150e7528593206'
+                'checksum' => '8a063d96ddf4c68534e826c3ca17963a'
             ]
         ]
     ]

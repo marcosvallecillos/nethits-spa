@@ -1,13 +1,9 @@
 version: '1.2'
-<<<<<<< HEAD
-timestamp: 1747644246
-=======
-timestamp: 1747643366
->>>>>>> cambiosDani
+timestamp: 1747648622
 count: 1
 index:
   mvallecillos:
     storage_key: mvallecillos
-    storage_timestamp: 1747643264
+    storage_timestamp: 1747642665
     key: mvallecillos
     email: marcosvallecillosu@gmail.com
